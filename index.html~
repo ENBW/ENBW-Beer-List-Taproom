@@ -410,10 +410,10 @@
         <!-- Mockingbird -->
     <div id="modalBtnFc" class="beer">
       <div class= logo-and-text>
-        <img class="beer-logo" src="images/Tennessee-Tristar.png" alt="TN Tristar Logo">
+        <img class="enbw-logo" src="images/Tennessee-Tristar.png" alt="TN Tristar Logo">
         <div class="beer-text">
           <div class="beer-name">Mockingbird Maibock</div>
-          <div class="beer-tagline">TN Brewer's Guild Collaboration</div>
+          <div class="beer-tagline">TN Brewer's Guild Collab</div>
         </div>
       </div>
       <div class="abv-and-tier">
